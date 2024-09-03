@@ -16,6 +16,6 @@
             "GCS\\OIDCClient\\": "src/"
         }
     },
-    "minimum-stability": "dev",
-    "prefer-stable": false
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
